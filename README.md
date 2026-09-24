@@ -26,3 +26,10 @@ Overclock 3VZ180
 Discussion in retrobrewcomputers about [overclocking 3VZ180](https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=810&goto=10835&#msg_10835)
 
 3VZ180 RomWBW is successful
+![romwbw](Software/3vz180_romwbw.jpg)
+
+adding RTC, running 3VZ180 at 50MHz
+![50MHz](Software/50mhz3vz180_rtc.jpg)
+
+64MHz clock
+![64m](Software/64mhz3vz180_rtc.jpg)
